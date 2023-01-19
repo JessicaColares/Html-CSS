@@ -1,4 +1,4 @@
-# Html-CSS
+# HTML e CSS
 
 <div>
 <p>🌸 Aqui vou adicionar todos os exercícios feitos em HTML e CSS durante meu aprendizado.</p>
