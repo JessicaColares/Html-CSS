@@ -57,10 +57,10 @@ h2 {
     background: #AA96DA;
     color: #FFFFD2;
     border-radius: 2px;
-    box-shadow: 0 0 2px #AA96DA,
-                0 0 5px #AA96DA,
-                0 0 10px #AA96DA,
-                0 0 20px #AA96DA;
+    box-shadow: 0 0 1px #AA96DA,
+                0 0 1px #AA96DA,
+                0 0 1px #AA96DA,
+                0 0 1px #AA96DA;
   }
   
   a span {
